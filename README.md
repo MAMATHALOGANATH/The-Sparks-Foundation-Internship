@@ -18,4 +18,5 @@ HTML,CSS,BOOTSTRAP,JAVASCRIPT
 Hosting servive:000webhost
 
 WEBSITE LINK:
-[https://mamatha01.000webhostapp.com/](url)
+
+[link to the website](https://mamatha01.000webhostapp.com/)
