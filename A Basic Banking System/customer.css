@@ -12,7 +12,7 @@ body{
 .navbar-brand{
     font-family: 'Sansita Swashed', cursive;
     font-size: 1.5rem;
-    color:#86C232!important;
+    color:#86C232;
     
 }
 .table thead th {
@@ -24,7 +24,7 @@ body{
 }
 
 .nav-link{
-    color:#86C232 !important;
+    color:#86C232;
     font-family: 'Noto Sans JP', sans-serif;
     
 }
@@ -42,8 +42,8 @@ body{
 
 .btn-info{
     padding: 1rem 1.2rem;
-    background-color: #86C232!important;
-    color: #fff!important;
+    background-color: #86C232;
+    color: #fff;
     margin-left: 5px;
     padding: 0.75rem;
     transition: all 0.3s;
